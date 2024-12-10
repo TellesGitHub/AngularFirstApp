@@ -1,0 +1,1 @@
+Esse projeto contribuiu muito para a minha experiencia na criação de telas utilizando frameworks, além de aprender um framework novo, aumentando minhas habilidades e me ajudando a evoluir meus conhecimentos no ramo da programação. Eu aprendi a criar components utilizando terminal da IDE, criar ROUTES e estilizar os componentes criados utilizando o CSS.
